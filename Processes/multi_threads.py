@@ -1,7 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
-
 import time,threading,multiprocessing
 
 #新线程执行的代码

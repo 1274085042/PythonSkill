@@ -1,7 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
-
 import os,time,random
 '''
 一、 子进程只需要调用getppid()就可以拿到父进程的ID
